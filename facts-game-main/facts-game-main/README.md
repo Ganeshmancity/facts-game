@@ -5,7 +5,7 @@
 <p> The "facts" categories include: music, movies, sports, quotes, academia</p>
 
 
-## Getting Started: If you want to play the game, check it out here:   https://timcrisp94.github.io/facts-game/
+
 
 ## User Stories
 <ul>
